@@ -1,4 +1,4 @@
-# whatsapp_copy
+# Flutter app
 
 Project to learn flutter
 
